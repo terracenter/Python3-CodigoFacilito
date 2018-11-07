@@ -13,6 +13,7 @@ result = '{a} de {b}'.format(a=course, b=myString)
 print(result)
 print()
 
+
 #Todo el String en minusculas
 result=result.lower()
 print(result)
