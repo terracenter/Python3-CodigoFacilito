@@ -106,3 +106,5 @@ myDiccionario.update(myDiccionario02) #añade el diccionario 2 al 1
 print(myDiccionario)
 print()
 print()
+
+#Se hizo un push
