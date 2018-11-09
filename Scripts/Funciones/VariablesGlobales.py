@@ -14,10 +14,7 @@ print(frase, "(Fuera - Despues)") #Despues de la funcion
 print(resultado)	
 print()
 print()
-print()
 ########################################################################
-
-
 
 
 
