@@ -10,7 +10,6 @@ print(resultado)
 print()
 print()
 
-
 #######################################################################
 def divison02(num01, num02):
     def validacion02():
