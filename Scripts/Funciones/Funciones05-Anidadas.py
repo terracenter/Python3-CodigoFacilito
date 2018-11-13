@@ -9,7 +9,7 @@ resultado = divison(10,0)
 print(resultado)
 print()
 print()
-x
+
 #######################################################################
 def divison02(num01, num02):
     def validacion02():
