@@ -1,3 +1,4 @@
+#TEMA: HERENCIA
 #Hereda  los metodos publicos, los privados no
 
 ####################################################################
