@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7557e398-e94e-4a7d-b34c-3770d478b664" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Scripts/POO/Clases.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/Otros/Clases03.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
@@ -71,31 +71,32 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="13" />
+          <entry key="py" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="13" />
+          <entry key="Python" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="31" />
           <entry key="dummy" value="10" />
-          <entry key="py" value="1612" />
-          <entry key="txt" value="39" />
+          <entry key="py" value="2028" />
+          <entry key="txt" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="49" />
-          <entry key="Python" value="1643" />
+          <entry key="PLAIN_TEXT" value="60" />
+          <entry key="Python" value="2059" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -104,12 +105,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Scripts/POO/Clases.py">
+        <entry file="file://$PROJECT_DIR$/Scripts/Otros/Clases03.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            <state relative-caret-position="308">
+              <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
               <folding>
-                <marker date="1542204582469" expanded="true" signature="68:73" ph="..." />
+                <marker date="1542206230615" expanded="true" signature="14:19" ph="..." />
               </folding>
             </state>
           </provider>
@@ -139,6 +140,8 @@
         <option value="$PROJECT_DIR$/Scripts/Otros/ScriptParametros.py" />
         <option value="$PROJECT_DIR$/Scripts/Otros/Excepciones.py" />
         <option value="$PROJECT_DIR$/Scripts/POO/Clases.py" />
+        <option value="$PROJECT_DIR$/Scripts/POO/Clases02.py" />
+        <option value="$PROJECT_DIR$/Scripts/Otros/Clases03.py" />
       </list>
     </option>
   </component>
@@ -163,6 +166,18 @@
               <item name="Python3-CodigoFacilito" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python3-CodigoFacilito" type="462c0819:PsiDirectoryNode" />
               <item name="Scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python3-CodigoFacilito" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python3-CodigoFacilito" type="462c0819:PsiDirectoryNode" />
+              <item name="Scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="Otros" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python3-CodigoFacilito" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python3-CodigoFacilito" type="462c0819:PsiDirectoryNode" />
+              <item name="Scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="POO" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -195,7 +210,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Clases">
+  <component name="RunManager" selected="Python.Clases03">
     <configuration name="Clases" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python3-CodigoFacilito" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -217,7 +232,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DateTime" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Clases02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python3-CodigoFacilito" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -225,11 +240,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scripts/Librerias" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scripts/POO" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scripts/Librerias/DateTime.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scripts/POO/Clases02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Clases03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python3-CodigoFacilito" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scripts/Otros" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scripts/Otros/Clases03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -280,41 +316,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Sys" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python3-CodigoFacilito" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scripts/Librerias" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scripts/Librerias/Sys.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.DateTime" />
-      <item itemvalue="Python.Sys" />
       <item itemvalue="Python.ScriptParametros" />
       <item itemvalue="Python.Excepciones" />
       <item itemvalue="Python.Clases" />
+      <item itemvalue="Python.Clases02" />
+      <item itemvalue="Python.Clases03" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Clases03" />
+        <item itemvalue="Python.Clases02" />
         <item itemvalue="Python.Clases" />
         <item itemvalue="Python.Excepciones" />
         <item itemvalue="Python.ScriptParametros" />
-        <item itemvalue="Python.Sys" />
-        <item itemvalue="Python.DateTime" />
       </list>
     </recent_temporary>
   </component>
@@ -392,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542193127549</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Metodo Init">
+      <created>1542205961529</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1542205961529</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -404,7 +426,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32612312" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.77204657" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -426,7 +448,8 @@
     <MESSAGE value="Avance" />
     <MESSAGE value="Scripts con Argumentos" />
     <MESSAGE value="Excepciones" />
-    <option name="LAST_COMMIT_MESSAGE" value="Excepciones" />
+    <MESSAGE value="Metodo Init" />
+    <option name="LAST_COMMIT_MESSAGE" value="Metodo Init" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Scripts/Variables/StringsMetodos.py">
@@ -483,9 +506,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -537,10 +557,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Scripts/POO/Clases.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        <state relative-caret-position="110">
+          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/POO/Clases02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
           <folding>
-            <marker date="1542204582469" expanded="true" signature="68:73" ph="..." />
+            <marker date="1542205840982" expanded="true" signature="289:408" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/Otros/Clases03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <marker date="1542206230615" expanded="true" signature="14:19" ph="..." />
           </folding>
         </state>
       </provider>
