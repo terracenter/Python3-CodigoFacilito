@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7557e398-e94e-4a7d-b34c-3770d478b664" name="Default Changelist" comment="Herencia">
-      <change afterPath="$PROJECT_DIR$/Scripts/POO/Herencia/Herencia02.py" afterDir="false" />
+    <list default="true" id="7557e398-e94e-4a7d-b34c-3770d478b664" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Scripts/POO/Clases07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/POO/Clases08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/POO/Herencia/Clases09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/POO/Herencia/Herencia03.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/POO/Herencia/Herencia01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/POO/Herencia/Herencia01.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -78,26 +80,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="39" />
+          <entry key="py" value="47" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="39" />
+          <entry key="Python" value="47" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="31" />
           <entry key="dummy" value="13" />
-          <entry key="py" value="3826" />
-          <entry key="txt" value="123" />
+          <entry key="py" value="5355" />
+          <entry key="txt" value="132" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="136" />
-          <entry key="Python" value="3857" />
+          <entry key="PLAIN_TEXT" value="145" />
+          <entry key="Python" value="5386" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -106,27 +108,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Scripts/POO/Herencia/Herencia02.py">
+        <entry file="file://$PROJECT_DIR$/Scripts/POO/Herencia/Clases09.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-              <folding>
-                <element signature="e#151#205#0" />
-                <element signature="e#246#369#0" />
-                <marker date="1542209472361" expanded="true" signature="334:449" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Scripts/POO/Herencia/Herencia01.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="15" selection-end-line="51" selection-end-column="23" />
-              <folding>
-                <marker date="1542209122137" expanded="true" signature="146:207" ph="..." />
-              </folding>
+            <state relative-caret-position="429">
+              <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -164,10 +149,14 @@
         <option value="$PROJECT_DIR$/Scripts/POO/Herencia/Herencia01.py" />
         <option value="$PROJECT_DIR$/Scripts/POO/Herencia/HerenciaMultiple.py" />
         <option value="$PROJECT_DIR$/Scripts/POO/Herencia/Herencia02.py" />
+        <option value="$PROJECT_DIR$/Scripts/POO/Herencia/Herencia03.py" />
+        <option value="$PROJECT_DIR$/Scripts/POO/Clases07.py" />
+        <option value="$PROJECT_DIR$/Scripts/POO/Clases08.py" />
+        <option value="$PROJECT_DIR$/Scripts/POO/Herencia/Clases09.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="735" />
@@ -231,8 +220,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Herencia02">
-    <configuration name="Clase05" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Clases09">
+    <configuration name="Clases07" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python3-CodigoFacilito" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -244,7 +233,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\andre\PycharmProjects\Python3-CodigoFacilito\Scripts\POO\Clases05.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scripts/POO/Clases07.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,7 +242,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Clases04" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Clases08" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python3-CodigoFacilito" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -265,7 +254,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scripts/POO/Clases04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scripts/POO/Clases08.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -274,28 +263,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Clases06" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python3-CodigoFacilito" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scripts/POO" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scripts/POO/Clases06.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Herencia01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Clases09" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python3-CodigoFacilito" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -307,7 +275,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scripts/POO/Herencia/Herencia01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scripts/POO/Herencia/Clases09.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -337,20 +305,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Herencia03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python3-CodigoFacilito" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scripts/POO/Herencia" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scripts/POO/Herencia/Herencia03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Clases04" />
-      <item itemvalue="Python.Clase05" />
-      <item itemvalue="Python.Clases06" />
-      <item itemvalue="Python.Herencia01" />
       <item itemvalue="Python.Herencia02" />
+      <item itemvalue="Python.Herencia03" />
+      <item itemvalue="Python.Clases07" />
+      <item itemvalue="Python.Clases08" />
+      <item itemvalue="Python.Clases09" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Clases09" />
+        <item itemvalue="Python.Clases08" />
+        <item itemvalue="Python.Clases07" />
+        <item itemvalue="Python.Herencia03" />
         <item itemvalue="Python.Herencia02" />
-        <item itemvalue="Python.Herencia01" />
-        <item itemvalue="Python.Clases06" />
-        <item itemvalue="Python.Clase05" />
-        <item itemvalue="Python.Clases04" />
       </list>
     </recent_temporary>
   </component>
@@ -470,19 +459,26 @@
       <option name="project" value="LOCAL" />
       <updated>1542209046105</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Herencia Multiple">
+      <created>1542209502518</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1542209502518</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="676" y="0" width="697" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.46585736" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.40515932" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.765391" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7637271" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -528,7 +524,8 @@
     <MESSAGE value="Variables de Clase" />
     <MESSAGE value="Properties" />
     <MESSAGE value="Herencia" />
-    <option name="LAST_COMMIT_MESSAGE" value="Herencia" />
+    <MESSAGE value="Herencia Multiple" />
+    <option name="LAST_COMMIT_MESSAGE" value="Herencia Multiple" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Scripts/Variables/StringsMetodos.py">
@@ -678,16 +675,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scripts/POO/Clases06.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-          <folding>
-            <marker date="1542208194964" expanded="true" signature="173:196" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Scripts/POO/Herencia/Herencia01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -700,13 +687,57 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Scripts/POO/Herencia/Herencia02.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+        <state relative-caret-position="220">
+          <caret line="19" column="28" lean-forward="true" selection-end-line="32" />
           <folding>
-            <element signature="e#151#205#0" />
-            <element signature="e#246#369#0" />
             <marker date="1542209472361" expanded="true" signature="334:449" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/POO/Herencia/Herencia03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="37" column="27" lean-forward="true" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+          <folding>
+            <marker date="1542210623947" expanded="true" signature="460:495" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/POO/Clases06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/POO/Clases07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <marker date="1542210957361" expanded="true" signature="198:203" ph="..." />
+            <marker date="1542210957361" expanded="true" signature="243:248" ph="..." />
+            <marker date="1542210957361" expanded="true" signature="370:374" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/POO/Clases08.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <marker date="1542213871001" expanded="true" signature="106:238" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/POO/Herencia/Clases09.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
         </state>
       </provider>
     </entry>
