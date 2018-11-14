@@ -1,7 +1,4 @@
-#TEMA: METODOS Y ATRIBUTOS PRIVADOS
-
-# __atributo, indica que el atributo es privado
-# __metodo, indica que el metodo es privado
+#TEMA: PROPERTIES
 
 ###########################################################################
 
@@ -14,11 +11,17 @@ class Usuario:
     def __generarPassword(self, password): #Metodo Priavdo
         return password.upper()
 
-    def getPassword(self):
-        return  self.__password
+    @property
+    def password(self):
+        return self.__password
+
+    @password.setter
+    def password(self, valor):
+        self.__password = self.__generarPassword(valor)
+
 ###########################################################################
 
 camilo = Usuario('Camilo', 'Camilo123', 'cgil@unal.edu.co')
-print(camilo.username)
-print(camilo.email)
-print(camilo.getPassword())
+print(camilo.password)
+camilo.password = "Nueva Contraseña"
+print(camilo.password)

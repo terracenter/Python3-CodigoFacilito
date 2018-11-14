@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7557e398-e94e-4a7d-b34c-3770d478b664" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Scripts/POO/Clases04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/POO/Clase05.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/Otros/Clases03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/POO/Clases03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/POO/Clases.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/POO/Clases.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/POO/Clases02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/POO/Clases02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/POO/Clases03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/POO/Clases03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/POO/Clases04.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/POO/Clases04.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -78,26 +81,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="16" />
+          <entry key="py" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="16" />
+          <entry key="Python" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="31" />
           <entry key="dummy" value="10" />
-          <entry key="py" value="2744" />
-          <entry key="txt" value="80" />
+          <entry key="py" value="2935" />
+          <entry key="txt" value="101" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="90" />
-          <entry key="Python" value="2775" />
+          <entry key="PLAIN_TEXT" value="111" />
+          <entry key="Python" value="2966" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -106,13 +109,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Scripts/POO/Clases04.py">
+        <entry file="file://$PROJECT_DIR$/Scripts/POO/Clase05.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
-              <folding>
-                <marker date="1542207054964" expanded="true" signature="155:160" ph="..." />
-              </folding>
+            <state relative-caret-position="341">
+              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -140,10 +140,12 @@
         <option value="$PROJECT_DIR$/Scripts/Librerias/Sys.py" />
         <option value="$PROJECT_DIR$/Scripts/Otros/ScriptParametros.py" />
         <option value="$PROJECT_DIR$/Scripts/Otros/Excepciones.py" />
+        <option value="$PROJECT_DIR$/Scripts/Otros/Clases03.py" />
+        <option value="$PROJECT_DIR$/Scripts/POO/Clases03.py" />
         <option value="$PROJECT_DIR$/Scripts/POO/Clases.py" />
         <option value="$PROJECT_DIR$/Scripts/POO/Clases02.py" />
-        <option value="$PROJECT_DIR$/Scripts/Otros/Clases03.py" />
         <option value="$PROJECT_DIR$/Scripts/POO/Clases04.py" />
+        <option value="$PROJECT_DIR$/Scripts/POO/Clase05.py" />
       </list>
     </option>
   </component>
@@ -211,7 +213,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Clases04">
+  <component name="RunManager" selected="Python.Clase05">
+    <configuration name="Clase05" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python3-CodigoFacilito" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scripts/POO" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scripts/POO/Clase05.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Clases" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python3-CodigoFacilito" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -296,41 +319,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Excepciones" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python3-CodigoFacilito" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scripts/Otros" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scripts/Otros/Excepciones.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.Excepciones" />
       <item itemvalue="Python.Clases" />
       <item itemvalue="Python.Clases02" />
       <item itemvalue="Python.Clases03" />
       <item itemvalue="Python.Clases04" />
+      <item itemvalue="Python.Clase05" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Clase05" />
         <item itemvalue="Python.Clases04" />
         <item itemvalue="Python.Clases03" />
         <item itemvalue="Python.Clases02" />
         <item itemvalue="Python.Clases" />
-        <item itemvalue="Python.Excepciones" />
       </list>
     </recent_temporary>
   </component>
@@ -422,7 +424,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542206483425</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Variables de Clase">
+      <created>1542207076028</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1542207076028</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -434,7 +443,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.77204657" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.765391" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -447,6 +456,25 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22842261" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.765391" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3294509" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3294509" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -458,7 +486,8 @@
     <MESSAGE value="Excepciones" />
     <MESSAGE value="Metodo Init" />
     <MESSAGE value="Metodos y Atributos Privados" />
-    <option name="LAST_COMMIT_MESSAGE" value="Metodos y Atributos Privados" />
+    <MESSAGE value="Variables de Clase" />
+    <option name="LAST_COMMIT_MESSAGE" value="Variables de Clase" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Scripts/Variables/StringsMetodos.py">
@@ -468,33 +497,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scripts/Funciones/Funciones03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scripts/Funciones/Funciones04-lambdas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Scripts/Funciones/Funciones.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Scripts/Funciones/Funciones02.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1014" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scripts/Funciones/Funciones05-Anidadas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-406">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Scripts/Librerias/Random.py">
@@ -564,40 +572,68 @@
         <state relative-caret-position="-186" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scripts/POO/Clases.py">
+    <entry file="file://$PROJECT_DIR$/Scripts/POO/Clases04.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+          <folding>
+            <marker date="1542207295292" expanded="true" signature="182:187" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/Funciones/Funciones03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/Funciones/Funciones04-lambdas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/Funciones/Funciones05-Anidadas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-384">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Scripts/POO/Clases02.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="22">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           <folding>
-            <marker date="1542205840982" expanded="true" signature="289:408" ph="..." />
+            <marker date="1542207264414" expanded="true" signature="311:430" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Scripts/POO/Clases03.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        <state relative-caret-position="176">
+          <caret line="8" column="31" selection-end-line="23" selection-end-column="27" />
           <folding>
-            <marker date="1542206461585" expanded="true" signature="184:189" ph="..." />
+            <marker date="1542207198830" expanded="true" signature="221:226" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scripts/POO/Clases04.py">
+    <entry file="file://$PROJECT_DIR$/Scripts/POO/Clases.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
-          <folding>
-            <marker date="1542207054964" expanded="true" signature="155:160" ph="..." />
-          </folding>
+        <state relative-caret-position="264">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/POO/Clase05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
         </state>
       </provider>
     </entry>

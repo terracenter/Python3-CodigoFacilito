@@ -1,3 +1,5 @@
+#TEMA: VARIABLES DE CLASE
+
 ########################################################
 class Circulo:
     _pi = 3.1416 #Es una variable de clase -> No hay nesecidad de crear instancias

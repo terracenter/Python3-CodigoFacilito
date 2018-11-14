@@ -1,5 +1,9 @@
+#TEMA: METODO INIT
+
 #Las clases deben comenzar con mayuscula y  CamellCase
 #El metodo init es nuestro constructor
+
+
 #################################################################
 
 class Lapiz:
