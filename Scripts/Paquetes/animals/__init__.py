@@ -1,7 +1,8 @@
 #En el __init__ Tambien se puede poner logica, constantes
+#__init__ animals
 ################################################################
-from .gato import Gato
-
+from .felinos import Gato
+from .felinos import Leon
 
 ################################################################
 def creadorGatos(nombre):

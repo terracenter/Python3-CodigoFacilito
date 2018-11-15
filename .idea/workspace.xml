@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7557e398-e94e-4a7d-b34c-3770d478b664" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Scripts/Paquetes/animals/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/Paquetes/animals/gato.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/Paquetes/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python3-CodigoFacilito.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python3-CodigoFacilito.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/Paquetes/animals/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/Paquetes/animals/felinos/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/Paquetes/animals/felinos/leon.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/Paquetes/animals/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/Paquetes/animals/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/Paquetes/animals/gato.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/Paquetes/animals/felinos/gato.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/Paquetes/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/Paquetes/main.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -114,49 +115,47 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="6" />
+          <entry key="py" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="6" />
+          <entry key="Python" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="199" />
+          <entry key="py" value="839" />
+          <entry key="txt" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="199" />
+          <entry key="PLAIN_TEXT" value="15" />
+          <entry key="Python" value="839" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Scripts/Paquetes/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="34">
+              <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Scripts/Paquetes/animals/__init__.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Scripts/Paquetes/animals/gato.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            <state relative-caret-position="66">
+              <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
               <folding>
-                <marker date="1542292634747" expanded="true" signature="11:16" ph="..." />
+                <marker date="1542294700927" expanded="true" signature="284:289" ph="..." />
               </folding>
             </state>
           </provider>
@@ -200,9 +199,14 @@
         <option value="$PROJECT_DIR$/Scripts/POO/Clases08.py" />
         <option value="$PROJECT_DIR$/Scripts/POO/Herencia/Clases09.py" />
         <option value="$PROJECT_DIR$/Scripts/Paquetes/animals/main.py" />
-        <option value="$PROJECT_DIR$/Scripts/Paquetes/animals/__init__.py" />
         <option value="$PROJECT_DIR$/Scripts/Paquetes/animals/gato.py" />
+        <option value="$PROJECT_DIR$/Scripts/Paquetes/animals/Felinos/__init__.py" />
+        <option value="$PROJECT_DIR$/Scripts/Paquetes/animals/felinos/leon.py" />
+        <option value="$PROJECT_DIR$/Scripts/Paquetes/animals/felinos/__init__.py" />
+        <option value="$PROJECT_DIR$/Scripts/Paquetes/animals/felinos/gato.py" />
+        <option value="$PROJECT_DIR$/Scripts/Paquetes/animals/animal.py" />
         <option value="$PROJECT_DIR$/Scripts/Paquetes/main.py" />
+        <option value="$PROJECT_DIR$/Scripts/Paquetes/animals/__init__.py" />
       </list>
     </option>
   </component>
@@ -234,6 +238,13 @@
               <item name="Scripts" type="462c0819:PsiDirectoryNode" />
               <item name="Paquetes" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Nueva carpeta" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Nueva carpeta" type="462c0819:PsiDirectoryNode" />
+              <item name="Scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="Paquetes" type="462c0819:PsiDirectoryNode" />
+              <item name="animals" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -255,6 +266,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\andre\Desktop\Nueva carpeta\Scripts\Paquetes\animals\Felinos" />
       <recent name="C:\Users\andre\Desktop\Nueva carpeta\Scripts\Paquetes\Animals" />
       <recent name="C:\Users\andre\PycharmProjects\Python3-CodigoFacilito\Scripts\POO" />
     </key>
@@ -517,19 +529,33 @@
       <option name="project" value="LOCAL" />
       <updated>1542209502518</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Paquetes">
+      <created>1542292892208</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1542292892208</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Init">
+      <created>1542293449027</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1542293449027</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="676" y="0" width="697" height="735" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.40515932" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1532738" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.7637271" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7508197" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -576,7 +602,9 @@
     <MESSAGE value="Properties" />
     <MESSAGE value="Herencia" />
     <MESSAGE value="Herencia Multiple" />
-    <option name="LAST_COMMIT_MESSAGE" value="Herencia Multiple" />
+    <MESSAGE value="Paquetes" />
+    <MESSAGE value="Init" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Scripts/Variables/StringsMetodos.py">
@@ -769,23 +797,60 @@
     <entry file="file://$PROJECT_DIR$/Scripts/Paquetes/animals/main.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scripts/Paquetes/animals/__init__.py">
+    <entry file="file://$PROJECT_DIR$/Scripts/Paquetes/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scripts/Paquetes/animals/gato.py">
+    <entry file="file://$PROJECT_DIR$/Scripts/Paquetes/animals/felinos/leon.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
           <folding>
-            <marker date="1542292634747" expanded="true" signature="11:16" ph="..." />
+            <marker date="1542294031543" expanded="true" signature="11:16" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/Paquetes/animals/animal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+          <folding>
+            <marker date="1542294359757" expanded="true" signature="13:18" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/Paquetes/animals/felinos/gato.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <marker date="1542294282362" expanded="true" signature="94:99" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/Paquetes/animals/felinos/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Scripts/Paquetes/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="34">
+          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/Paquetes/animals/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <folding>
+            <marker date="1542294700927" expanded="true" signature="284:289" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
