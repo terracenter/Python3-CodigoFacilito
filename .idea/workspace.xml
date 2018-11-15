@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7557e398-e94e-4a7d-b34c-3770d478b664" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Scripts/Paquetes/animals/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/Paquetes/animals/felinos/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/Paquetes/animals/felinos/leon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/Otros/Excepciones02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/Otros/Excepxiones03.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/Paquetes/animals/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/Paquetes/animals/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/Paquetes/animals/gato.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/Paquetes/animals/felinos/gato.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/Paquetes/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/Paquetes/main.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -109,54 +105,53 @@
     <session id="-946847449">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="46" />
+          <entry key="py" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="46" />
+          <entry key="Python" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="839" />
-          <entry key="txt" value="15" />
+          <entry key="py" value="842" />
+          <entry key="txt" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="15" />
-          <entry key="Python" value="839" />
+          <entry key="PLAIN_TEXT" value="27" />
+          <entry key="Python" value="842" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Scripts/Paquetes/main.py">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Scripts/Otros/Excepciones02.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+            <state relative-caret-position="88">
+              <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Scripts/Paquetes/animals/__init__.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scripts/Otros/Excepxiones03.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-              <folding>
-                <marker date="1542294700927" expanded="true" signature="284:289" ph="..." />
-              </folding>
+            <state relative-caret-position="474">
+              <caret line="42" selection-start-line="42" selection-end-line="42" selection-end-column="90" />
             </state>
           </provider>
         </entry>
@@ -207,10 +202,14 @@
         <option value="$PROJECT_DIR$/Scripts/Paquetes/animals/animal.py" />
         <option value="$PROJECT_DIR$/Scripts/Paquetes/main.py" />
         <option value="$PROJECT_DIR$/Scripts/Paquetes/animals/__init__.py" />
+        <option value="$PROJECT_DIR$/Scripts/Otros/Exepciones02.py" />
+        <option value="$PROJECT_DIR$/Scripts/Otros/Exception03.py" />
+        <option value="$PROJECT_DIR$/Scripts/Otros/Excepxiones03.py" />
+        <option value="$PROJECT_DIR$/Scripts/Otros/Excepciones02.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="735" />
@@ -236,14 +235,7 @@
               <item name="Nueva carpeta" type="b2602c69:ProjectViewProjectNode" />
               <item name="Nueva carpeta" type="462c0819:PsiDirectoryNode" />
               <item name="Scripts" type="462c0819:PsiDirectoryNode" />
-              <item name="Paquetes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Nueva carpeta" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Nueva carpeta" type="462c0819:PsiDirectoryNode" />
-              <item name="Scripts" type="462c0819:PsiDirectoryNode" />
-              <item name="Paquetes" type="462c0819:PsiDirectoryNode" />
-              <item name="animals" type="462c0819:PsiDirectoryNode" />
+              <item name="Otros" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -543,14 +535,21 @@
       <option name="project" value="LOCAL" />
       <updated>1542293449027</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Subpaquetes">
+      <created>1542294742834</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1542294742834</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1532738" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1532738" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -604,7 +603,8 @@
     <MESSAGE value="Herencia Multiple" />
     <MESSAGE value="Paquetes" />
     <MESSAGE value="Init" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init" />
+    <MESSAGE value="Subpaquetes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Subpaquetes" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Scripts/Variables/StringsMetodos.py">
@@ -794,12 +794,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scripts/Paquetes/animals/main.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scripts/Paquetes/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/Paquetes/animals/main.py" />
+    <entry file="file://$PROJECT_DIR$/Scripts/Paquetes/__init__.py" />
     <entry file="file://$PROJECT_DIR$/Scripts/Paquetes/animals/felinos/leon.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -814,9 +810,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-          <folding>
-            <marker date="1542294359757" expanded="true" signature="13:18" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -824,9 +817,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding>
-            <marker date="1542294282362" expanded="true" signature="94:99" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -837,20 +827,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scripts/Paquetes/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Scripts/Paquetes/animals/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-          <folding>
-            <marker date="1542294700927" expanded="true" signature="284:289" ph="..." />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/Paquetes/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/Otros/Exception03.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/Otros/Exepciones02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/Otros/Excepxiones03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="42" selection-start-line="42" selection-end-line="42" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/Otros/Excepciones02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
